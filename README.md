@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @walsondeveloper
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity game engine and C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Vodoo and other publishers
 - 📫 How to reach me walsondev@yandex.ru, walsondeveloper@google.com
 
 <!---
